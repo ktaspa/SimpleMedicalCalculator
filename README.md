@@ -1,6 +1,6 @@
 # SimpleMedicalCalculator
 Simple Medical Calculator is an application that calculates an individual's risk of developing certain diseases based on various input factors.
-All of the code is in the main.js file
+All of the code is in the main.java file
 Note: This program is extremely simple - uses a scanner and some if statements
 
 # Input
